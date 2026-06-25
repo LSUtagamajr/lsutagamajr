@@ -1,4 +1,4 @@
-<h1 align="center">Hi!, I'm Rhodell</h1>
+<h1 align="center">Hi!, I'm Dell</h1>
 
 <h3 align="center">
 Turning ideas into interactive digital experiences.<br>
