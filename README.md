@@ -23,15 +23,17 @@ A third-year BSIT student at La Salle University–Ozamiz passionate about build
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/rhodelltagamajr">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://facebook.com/tagamarhodelljr">
-<img src="https://skillicons.dev/icons?i=facebook" />
-</a>
-<a href="https://instagram.com/deldoo0">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
+  <a href="https://linkedin.com/in/rhodelltagamajr">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+  </a>
+
+  <a href="https://facebook.com/tagamarhodelljr">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
+  </a>
+
+  <a href="https://instagram.com/deldoo0">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+  </a>
 </p>
 
 ---
