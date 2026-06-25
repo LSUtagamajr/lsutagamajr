@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rhodell</h1>
+<h1 align="center">Hi!, I'm Rhodell</h1>
 
 <h3 align="center">
 Turning ideas into interactive digital experiences.<br>
@@ -20,7 +20,7 @@ A third-year BSIT student at La Salle University–Ozamiz passionate about build
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Contact and Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rhodelltagamajr)
 
