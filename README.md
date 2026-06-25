@@ -91,9 +91,3 @@ A third-year BSIT student at La Salle University–Ozamiz passionate about build
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lsutagamajr&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/lsutagamajr/lsutagamajr/blob/output/github-contribution-grid-snake-dark.svg)
