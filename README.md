@@ -8,7 +8,6 @@
 </p>
 
 <h3 align="center">
-Turning ideas into interactive digital experiences.<br>
 A third-year BSIT student at La Salle University–Ozamiz passionate about building modern web applications and solving real-world problems.
 </h3>
 
