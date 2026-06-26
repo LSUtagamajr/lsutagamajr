@@ -44,42 +44,42 @@ A third-year BSIT student at La Salle University–Ozamiz passionate about build
 ## 💻 Tech Stack
 
 ### 🎨 Frontend
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,vite&theme=dark" />
   </a>
 </p>
 
 ### ⚙️ Backend
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,dotnet&theme=dark" />
   </a>
 </p>
 
 ### 🗄️ Databases
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" />
   </a>
 </p>
 
 ### 📱 Mobile Development
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
   </a>
 </p>
 
 ### 🛠️ Tools & DevOps
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,figma,postman,docker&theme=dark" />
   </a>
 </p>
 
 ### 💻 Other Languages
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python&theme=dark" />
   </a>
